@@ -1,0 +1,129 @@
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\ModernAEL.exe
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\ModernAEL.pdb
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.csprojResolveAssemblyReference.cache
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\MainWindow.baml
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\About.baml
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\Appearance.baml
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Home.baml
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\SettingsPage.baml
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\App.baml
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\MainWindow.g.cs
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\About.g.cs
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\Appearance.g.cs
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Home.g.cs
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\App.g.cs
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL_MarkupCompile.cache
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.g.resources
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.exe
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.pdb
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Configuracion.baml
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Configuracion.g.cs
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL_MarkupCompile.lref
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\ModernAEL.exe.config
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarGrupos.baml
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarGrupos.g.cs
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.Properties.Resources.resources
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.csproj.GenerateResource.Cache
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\LinqToExcel.dll
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\log4net.dll
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\Remotion.dll
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\Remotion.Interfaces.dll
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\LinqToExcel.xml
+C:\Users\emmanuel.gomez\Documents\Visual Studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\log4net.xml
+C:\Users\emmanuel.gomez\documents\visual studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\ClosedXML.dll
+C:\Users\emmanuel.gomez\documents\visual studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\emmanuel.gomez\documents\visual studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\bin\Debug\ClosedXML.xml
+C:\Users\emmanuel.gomez\documents\visual studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarTrabajadores.baml
+C:\Users\emmanuel.gomez\documents\visual studio 2013\Projects\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarTrabajadores.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\ModernAEL.exe.config
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.exe
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.pdb
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\ModernAEL.exe
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\ModernAEL.pdb
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\ClosedXML.dll
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\FirstFloor.ModernUI.dll
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\LinqToExcel.dll
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\log4net.dll
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\Remotion.Data.Linq.dll
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\Remotion.dll
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\Remotion.Interfaces.dll
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\ClosedXML.xml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\FirstFloor.ModernUI.xml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\LinqToExcel.xml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\log4net.xml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.csprojResolveAssemblyReference.cache
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\MainWindow.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarTrabajadores.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarGrupos.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\About.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\Appearance.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Home.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\SettingsPage.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\App.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\MainWindow.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Configuracion.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarTrabajadores.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarGrupos.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\About.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\Appearance.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Home.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\SettingsPage.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\App.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL_MarkupCompile.cache
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL_MarkupCompile.lref
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Configuracion.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.g.resources
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.Properties.Resources.resources
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.csproj.GenerateResource.Cache
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\ModernAEL.exe.config
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.exe
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.pdb
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\ModernAEL.exe
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\ModernAEL.pdb
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\ClosedXML.dll
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\FirstFloor.ModernUI.dll
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\LinqToExcel.dll
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\log4net.dll
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\Remotion.Data.Linq.dll
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\Remotion.dll
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\Remotion.Interfaces.dll
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\ClosedXML.xml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\FirstFloor.ModernUI.xml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\LinqToExcel.xml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Debug\log4net.xml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.csprojResolveAssemblyReference.cache
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\MainWindow.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarTrabajadores.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarGrupos.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\About.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\Appearance.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Home.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\SettingsPage.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\App.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\MainWindow.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Configuracion.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarTrabajadores.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\InsertarGrupos.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\About.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Settings\Appearance.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Home.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\SettingsPage.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\App.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL_MarkupCompile.cache
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL_MarkupCompile.lref
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\Pages\Configuracion.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.g.resources
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.Properties.Resources.resources
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.csproj.GenerateResource.Cache
+D:\Programacion\Proyectos\Mios\AsistenciaExcelLoader\ModernAEL\bin\Debug\ModernAEL.exe.config
+D:\Programacion\Proyectos\Mios\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.exe
+D:\Programacion\Proyectos\Mios\AsistenciaExcelLoader\ModernAEL\obj\Debug\ModernAEL.pdb

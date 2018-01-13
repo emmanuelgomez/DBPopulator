@@ -1,0 +1,61 @@
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\bin\Release\ModernAEL.exe.config
+F:\Asistencia\Displiegue\Completo\Aplicaciones\AsistenciaExcelLoader\ModernAEL.exe.config
+F:\Asistencia\Displiegue\Completo\Aplicaciones\AsistenciaExcelLoader\ModernAEL.exe
+F:\Asistencia\Displiegue\Completo\Aplicaciones\AsistenciaExcelLoader\ModernAEL.pdb
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.csprojResolveAssemblyReference.cache
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\MainWindow.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\InsertarTrabajadores.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\InsertarGrupos.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Settings\About.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Settings\Appearance.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Home.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\SettingsPage.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\App.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\MainWindow.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Configuracion.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\InsertarTrabajadores.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\InsertarGrupos.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Settings\About.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Settings\Appearance.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Home.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\SettingsPage.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\App.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL_MarkupCompile.cache
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL_MarkupCompile.lref
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Configuracion.baml
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.g.resources
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.Properties.Resources.resources
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.csproj.GenerateResource.Cache
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.exe
+F:\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.pdb
+D:\Programacion\Asistencia\Displiegue\Completo\Aplicaciones\AsistenciaExcelLoader\ModernAEL.exe.config
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.exe
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.pdb
+D:\Programacion\Asistencia\Displiegue\Completo\Aplicaciones\AsistenciaExcelLoader\ModernAEL.exe
+D:\Programacion\Asistencia\Displiegue\Completo\Aplicaciones\AsistenciaExcelLoader\ModernAEL.pdb
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.csprojResolveAssemblyReference.cache
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\MainWindow.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\InsertarTrabajadores.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\InsertarGrupos.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Settings\About.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Settings\Appearance.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Home.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\SettingsPage.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\App.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\MainWindow.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Configuracion.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\InsertarTrabajadores.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\InsertarGrupos.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Settings\About.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Settings\Appearance.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Home.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\SettingsPage.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\App.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL_MarkupCompile.cache
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL_MarkupCompile.lref
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\Pages\Configuracion.baml
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.g.resources
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.Properties.Resources.resources
+D:\Programacion\Asistencia\TFS NEW\AsistenciaExcelLoader\ModernAEL\obj\Release\ModernAEL.csproj.GenerateResource.Cache

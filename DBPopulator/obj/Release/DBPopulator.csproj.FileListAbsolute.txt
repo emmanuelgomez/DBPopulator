@@ -1,0 +1,3 @@
+D:\Programacion\Proyectos\Mios\DBPopulator\DBPopulator\bin\Release\AsistenciaExcelLoader.exe.config
+D:\Programacion\Proyectos\Mios\DBPopulator\DBPopulator\obj\Release\AsistenciaExcelLoader.exe
+D:\Programacion\Proyectos\Mios\DBPopulator\DBPopulator\obj\Release\AsistenciaExcelLoader.pdb
